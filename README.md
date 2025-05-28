@@ -1,4 +1,4 @@
-# 🧩 Eisen Asset Repository
+# Eisen Asset Repository
 
 This repository contains image assets for **Eisen Finance**, primarily for:
 
