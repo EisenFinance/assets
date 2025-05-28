@@ -57,69 +57,69 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 
 <table>
   <tr>
-    <th><a href="./icons/chains/base/eth.png">ETH</a></th>
-    <th><a href="./icons/chains/arbitrum/weth.png">WETH</a></th>
-    <th><a href="./icons/chains/linea/wbtc.png">WBTC</a></th>
-    <th><a href="./icons/chains/blast/btc.png">BTC</a></th>
-    <th><a href="./icons/chains/chain-symbols/solana.png">SOL</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/base/eth.png">ETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/arbitrum/weth.png">WETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/linea/wbtc.png">WBTC</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/blast/btc.png">BTC</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/chain-symbols/solana.png">SOL</a></th>
   </tr>
   <tr>
-    <td><img src="./icons/chains/base/eth.png" width="32"/></td>
-    <td><img src="./icons/chains/arbitrum/weth.png" width="32"/></td>
-    <td><img src="./icons/chains/linea/wbtc.png" width="32"/></td>
-    <td><img src="./icons/chains/blast/btc.png" width="32"/></td>
-    <td><img src="./icons/chains/chain-symbols/solana.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/base/eth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/arbitrum/weth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/linea/wbtc.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/blast/btc.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/chain-symbols/solana.png" width="32"/></td>
   </tr>
   <tr>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/usdt.png">USDT</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/usdc.png">USDC</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/soneium/usdce.png">USDC.E</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/dai.png">DAI</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/blast/usde.png">USDE</a></th>
   </tr>
-    <th><a href="./icons/chains/scroll/usdt.png">USDT</a></th>
-    <th><a href="./icons/chains/scroll/usdc.png">USDC</a></th>
-    <th><a href="./icons/chains/soneium/usdce.png">USDC.E</a></th>
-    <th><a href="./icons/chains/scroll/dai.png">DAI</a></th>
-    <th><a href="./icons/chains/blast/usde.png">USDE</a></th>
   <tr>
-    <td><img src="./icons/chains/scroll/usdt.png" width="32"/></td>
-    <td><img src="./icons/chains/scroll/usdc.png" width="32"/></td>
-    <td><img src="./icons/chains/soneium/usdce.png" width="32"/></td>
-    <td><img src="./icons/chains/scroll/dai.png" width="32"/></td>
-    <td><img src="./icons/chains/blast/usde.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/usdt.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/usdc.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/soneium/usdce.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/dai.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/blast/usde.png" width="32"/></td>
   </tr>
 </table>
-
 
 ---
 
 ## 4. Staking & Restaking Assets
 <table>
   <tr>
-    <th><a href="./icons/chains/base/wsteth.png">wstETH</a></th>
-    <th><a href="./icons/chains/blast/weeth.png">weETH</a></th>
-    <th><a href="./icons/chains/scroll/wrseth.png">wrsETH</a></th>
-    <th><a href="./icons/chains/zircuit/ezeth.png">ezETH</a></th>
-    <th><a href="./icons/chains/scroll/reth.png">rETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/base/wsteth.png">wstETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/blast/weeth.png">weETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/wrseth.png">wrsETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/zircuit/ezeth.png">ezETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/reth.png">rETH</a></th>
   </tr>
   <tr>
-    <td><img src="./icons/chains/base/wsteth.png" width="32"/></td>
-    <td><img src="./icons/chains/blast/weeth.png" width="32"/></td>
-    <td><img src="./icons/chains/scroll/wrseth.png" width="32"/></td>
-    <td><img src="./icons/chains/zircuit/ezeth.png" width="32"/></td>
-    <td><img src="./icons/chains/scroll/reth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/base/wsteth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/blast/weeth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/wrseth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/zircuit/ezeth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/reth.png" width="32"/></td>
   </tr>
   <tr>
-    <th><a href="./icons/chains/scroll/unieth.png">uniETH</a></th>
-    <th><a href="./icons/chains/bsc/ankreth.png">ankrETH</a></th>
-    <th><a href="./icons/chains/scroll/pufeth.png">pufETH</a></th>
-    <th><a href="./icons/chains/linea/stone.png">STONE</a></th>
-    <th><a href="./icons/chains/bsc/stbtc.png">stBTC</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/unieth.png">uniETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/bsc/ankreth.png">ankrETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/pufeth.png">pufETH</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/linea/stone.png">STONE</a></th>
+    <th><a href="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/bsc/stbtc.png">stBTC</a></th>
   </tr>
   <tr>
-    <td><img src="./icons/chains/scroll/unieth.png" width="32"/></td>
-    <td><img src="./icons/chains/bsc/ankreth.png" width="32"/></td>
-    <td><img src="./icons/chains/scroll/pufeth.png" width="32"/></td>
-    <td><img src="./icons/chains/linea/stone.png" width="32"/></td>
-    <td><img src="./icons/chains/bsc/stbtc.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/unieth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/bsc/ankreth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/scroll/pufeth.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/linea/stone.png" width="32"/></td>
+    <td><img src="https://raw.githubusercontent.com/EisenFinance/assets/main/assets/icons/chains/bsc/stbtc.png" width="32"/></td>
   </tr>
 </table>
+
 
 ---
 
