@@ -8,38 +8,39 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 ---
 
 ## 1. Directory Structure
-<pre> 
-<a href="./assets/">assets</a>/
-├── <a href="./assets/eisen/">eisen</a>/
-│   ├── <a href="./assets/eisen/banner/">banner</a>/
-│   └── <a href="./assets/eisen/symbol/">symbol</a>/
-├── <a href="./assets/icons/">icons</a>/
-│   ├── <a href="./assets/icons/bridges/">bridges</a>/
-│   ├── <a href="./assets/icons/chains/">chains</a>/
-│   │   ├── <a href="./assets/icons/chains/abstract/">abstract</a>/
-│   │   ├── <a href="./assets/icons/chains/arbitrum/">arbitrum</a>/
-│   │   ├── <a href="./assets/icons/chains/base/">base</a>/
-│   │   ├── <a href="./assets/icons/chains/berachain/">berachain</a>/
-│   │   ├── <a href="./assets/icons/chains/blast/">blast</a>/
-│   │   ├── <a href="./assets/icons/chains/bsc/">bsc</a>/
-│   │   ├── <a href="./assets/icons/chains/chain-symbols/">chain-symbols</a>/
-│   │   ├── <a href="./assets/icons/chains/core/">core</a>/
-│   │   ├── <a href="./assets/icons/chains/hemi/">hemi</a>/
-│   │   ├── <a href="./assets/icons/chains/hyperliquid/">hyperliquid</a>/
-│   │   ├── <a href="./assets/icons/chains/linea/">linea</a>/
-│   │   ├── <a href="./assets/icons/chains/mantle/">mantle</a>/
-│   │   ├── <a href="./assets/icons/chains/mode/">mode</a>/
-│   │   ├── <a href="./assets/icons/chains/monad-testnet/">monad-testnet</a>/
-│   │   ├── <a href="./assets/icons/chains/rootstock/">rootstock</a>/
-│   │   ├── <a href="./assets/icons/chains/scroll/">scroll</a>/
-│   │   ├── <a href="./assets/icons/chains/soneium/">soneium</a>/
-│   │   ├── <a href="./assets/icons/chains/taiko/">taiko</a>/
-│   │   └── <a href="./assets/icons/chains/zircuit/">zircuit</a>/
-│   ├── <a href="./assets/icons/functional/">functional</a>/
-│   ├── <a href="./assets/icons/protocols/">protocols</a>/
-│   └── <a href="./assets/icons/tokens/">tokens</a>/
-└── <a href="./assets/wordmarks/">wordmarks</a>/
+<pre>
+<a href="https://github.com/EisenFinance/assets/tree/main/assets/">assets</a>/
+├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/eisen/">eisen</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/eisen/banner/">banner</a>/
+│   └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/eisen/symbol/">symbol</a>/
+├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/">icons</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/bridges/">bridges</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/">chains</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/abstract/">abstract</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/arbitrum/">arbitrum</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/base/">base</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/berachain/">berachain</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/blast/">blast</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/bsc/">bsc</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/chain-symbols/">chain-symbols</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/core/">core</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/hemi/">hemi</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/hyperliquid/">hyperliquid</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/linea/">linea</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mantle/">mantle</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mode/">mode</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/monad-testnet/">monad-testnet</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/rootstock/">rootstock</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/scroll/">scroll</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/soneium/">soneium</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/taiko/">taiko</a>/
+│   │   └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/zircuit/">zircuit</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/functional/">functional</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/protocols/">protocols</a>/
+│   └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/tokens/">tokens</a>/
+└── <a href="https://github.com/EisenFinance/assets/tree/main/assets/wordmarks/">wordmarks</a>/
 </pre>
+
 
 ## 2. Rules
 
