@@ -30,6 +30,9 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mantle/">mantle</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mode/">mode</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/monad-testnet/">monad-testnet</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/noimage/">noimage</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/plume/">plume</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/ronin/">ronin</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/rootstock/">rootstock</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/scroll/">scroll</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/soneium/">soneium</a>/
