@@ -9,6 +9,13 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 
 ## 1. Directory Structure
 <pre>
+<a href="https://github.com/EisenFinance/assets/tree/main/assets/">assets</a>/
+├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/eisen/">eisen</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/eisen/banner/">banner</a>/
+│   └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/eisen/symbol/">symbol</a>/
+├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/">icons</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/bridges/">bridges</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/">chains</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/abstract/">abstract</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/arbitrum/">arbitrum</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/base/">base</a>/
@@ -24,6 +31,7 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/katana/">katana</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/linea/">linea</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mantle/">mantle</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/megaeth/">megaeth</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mode/">mode</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/monad-testnet/">monad-testnet</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/morph/">morph</a>/
@@ -36,6 +44,13 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/soneium/">soneium</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/taiko/">taiko</a>/
 │   │   └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/zircuit/">zircuit</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/functional/">functional</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/protocols/">protocols</a>/
+│   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/tokens/">tokens</a>/
+│   └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/wallets/">wallets</a>/
+└── <a href="https://github.com/EisenFinance/assets/tree/main/assets/wordmarks/">wordmarks</a>/
+    ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/wordmarks/backers/">backers</a>/
+    └── <a href="https://github.com/EisenFinance/assets/tree/main/assets/wordmarks/partners/">partners</a>/
 </pre>
 
 
