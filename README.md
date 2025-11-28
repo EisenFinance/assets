@@ -32,6 +32,7 @@ This repository contains image assets for **Eisen Finance**, primarily for:
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/linea/">linea</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mantle/">mantle</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/megaeth/">megaeth</a>/
+│   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/megaeth-testnet/">megaeth-testnet</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/mode/">mode</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/monad/">monad</a>/
 │   │   ├── <a href="https://github.com/EisenFinance/assets/tree/main/assets/icons/chains/monad-testnet/">monad-testnet</a>/
